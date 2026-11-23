@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hallysums.github.io/alicia-ladeia-site/sitemap.xml
